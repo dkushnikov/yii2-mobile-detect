@@ -39,7 +39,7 @@ like this:
     ```php
     echo \Yii::$app->mobileDetect->isMobile();
     echo \Yii::$app->mobileDetect->isTablet();
-    echo \Yii::$app->mobileDetect->isDesctop();
+    echo \Yii::$app->mobileDetect->isDesktop();
     ```
 
     ```php
